@@ -1,0 +1,2 @@
+# Battery-Health-Prophecy
+ This project analyzes NASA's battery datasets to predict the State of Health (SOH) by extracting Health Indices (HI’s) and conducting correlation analysis. Focusing on Charge and Discharge cycles, the research involves data cleaning, capacity extraction, and HI extraction. Utilizing Pearson and Spearman methods, the project identifies crucial HI’s strongly linked to battery health, contributing valuable insights for efficient battery usage.
